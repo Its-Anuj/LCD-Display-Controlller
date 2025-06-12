@@ -2,7 +2,7 @@
 A python and arduino scirpt which displays text in a 16x2 LCD display
 
 [Project in Wokwi]
-([[https://www.openai.com](https://wokwi.com/projects/433382313389752321)]())
+([[[https://www.openai.com](https://wokwi.com/projects/433382313389752321)](https://wokwi.com/projects/433382313389752321)]())
 # Project Setup Image
 ![image](https://github.com/user-attachments/assets/46983aae-6b04-4425-93d4-0a6e6dbbbf36)
 
